@@ -1,9 +1,13 @@
 # Impact-of-Congestion-Window-and-TCP-Window-Scaling
 
-# Brief: Analyze the impact of above mentioned optimisations on the performance of TCP.
-# Required experience: Fundamentals of TCP
-# Bonus experience: Knowledge of Initial congestion window and TCP Window Scaling
+## Course Code: CO302
+
+## Assignment : #31
+
+### Overview 
+
+Analyze the impact of Initial Congestion Window and TCP Window Scaling using Flent.Flent is a network benchmarking tool which allows easily to run network tests,explore test data,combine and aggregate data series,capture meta data from local and remote hosts and completely automate testing regime.  
 
 ## Refrences:
-###  Concept of Initial Congestion Window and TCP Window Scaling (Link: https://hpbn.co)
-###  About Flent (Path: https://flent.org/)
+[1] Concept of Initial Congestion Window and TCP Window Scaling (Link: https://hpbn.co)
+[2] About Flent (Path: https://flent.org/)
